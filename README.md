@@ -1,17 +1,12 @@
 ### Hi there 👋
 
-<!--
-**LeoRamill/LeoRamill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying **in the Bachelor of Applied Computer Science and Artificial Intelligence at Sapienza - Rome University**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning topics**
+- 💬 Ask me about **Technology, Art, Cinema, TV series, Photography**
+- 📫 How to reach me: **leonardvincentramil@icloud.com**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+## 🚀 About Me:
+I am a final-year undergraduate student of the Applied Computer Science and Artificial Intelligence degree program. One of my many interests is to be able to coincide everything in the scientific field, like artificial intelligence, with every form of art.
 
 
 # 💻 Tech Stack:
