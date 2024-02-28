@@ -6,7 +6,8 @@
 - 📫 How to reach me: **leonardvincentramil@icloud.com**
 
 ## 🚀 About Me:
-I am a final-year undergraduate student of the Applied Computer Science and Artificial Intelligence degree program. I like to travel, explore the world trying to represent my perspective/reality through photography.
+I am a final-year undergraduate student of the Applied Computer Science and Artificial Intelligence degree program. 
+I like to travel, explore the world trying to represent my perspective/reality through photography.
 One of my many interests is to be able to coincide everything in the scientific field, like artificial intelligence, with every form of art.
 
 
