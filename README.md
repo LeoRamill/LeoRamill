@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi there 
 
 - 🔭 I’m currently studying **in the Bachelor of Applied Computer Science and Artificial Intelligence at Sapienza - Rome University**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning topics**
