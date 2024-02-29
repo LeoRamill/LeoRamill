@@ -6,23 +6,26 @@
 - 📫 How to reach me: **leonardvincentramil@icloud.com**
 
 <h1 align="center">  🚀 About Me: </h1>
-
-I am a final-year undergraduate student of the Applied Computer Science and Artificial Intelligence degree program. 
+<p align="center">
+  I am a final-year undergraduate student of the Applied Computer Science and Artificial Intelligence degree program. 
 I like to travel, explore the world trying to represent my perspective/reality through photography.
 One of my many interests is to be able to coincide everything in the scientific field, like artificial intelligence, with every form of art.
+</p>
 
 
 <h1 align="center"> 💻 Tech Stack: </h1>
 
+<div align="center">
+
 ### Stand-Alone
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
 </p>
 
 ### Machine/Deep Learning and Computer Vision Tools
-<p align="left">
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
@@ -37,7 +40,7 @@ One of my many interests is to be able to coincide everything in the scientific 
 
 
 ### Full Stack Development
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -47,7 +50,7 @@ One of my many interests is to be able to coincide everything in the scientific 
 </p>
 
 ### Querying
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="60" height="60"/>
@@ -55,16 +58,18 @@ One of my many interests is to be able to coincide everything in the scientific 
 
 
 ### TypeSetting
-<p align="left">
+<p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/TeXShop_icon.png" alt="latex" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" alt="mardown" width="40" height="40"/>
 </p>
 
 ### UI & UX Design
-<p align="left">
+<p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
 <img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png" alt="canva" width="40" height="40"/>
 </p>
+
+</div>
   
 
 
