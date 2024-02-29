@@ -75,22 +75,37 @@ One of my many interests is to be able to coincide everything in the scientific 
 
 <h1 align="center">  👨🏽‍💻 Projects </h1>
 
+<div align="center">
+
 [![KYC](https://github-readme-stats.vercel.app/api/pin/?username=LeoRamill&repo=KYC&border_color=ff4d00&bg_color=0D1117&title_color=9370db&text_color=FFFFFF&icon_color=9370db)](https://github.com/LeoRamill/KYC)
 [![Analyzing Tradeoffs between Activation Functions and Optimizers in First Gen. Pokemon Classification](https://github-readme-stats.vercel.app/api/pin/?username=LeoRamill&repo=analyzing-tradeoffs&border_color=ff4d00&bg_color=0D1117&title_color=9370db&text_color=FFFFFF&icon_color=9370db)](https://github.com/LeoRamill/analyzing-tradeoffs)
 [![ProfessorAdvisor](https://github-readme-stats.vercel.app/api/pin/?username=LeoRamill&repo=Human-Computer-Interaction-Project&border_color=ff4d00&bg_color=0D1117&title_color=9370db&text_color=FFFFFF&icon_color=9370db)](https://github.com/LeoRamill/Human-Computer-Interaction-Project)
 
-<p align="left">
+<p>
   <a href="https://github.com/LeoRamill?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-6f00ff?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
+</div>
+
 <h1 align="center">  📊 GitHub Stats: </h1>
+
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=LeoRamill&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeoRamill&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRamill&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+</div>
+
 <h1 align="center">  🔝 Top Contributed Repo </h1>
 
-![](https://github-contributor-stats.vercel.app/api?username=LeoRamill&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<div align="center">
+  
+  ![](https://github-contributor-stats.vercel.app/api?username=LeoRamill&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+  
+</div>
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
