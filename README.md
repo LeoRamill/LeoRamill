@@ -17,12 +17,12 @@ One of my many interests is to be able to coincide everything in the scientific 
 
 
 # 👨🏽‍💻 Projects 
-[![KYC](https://github-readme-stats.vercel.app/api/pin/?username=LeoRamill&repo=KYC&border_color=ff4d00&bg_color=0D1117&title_color=6f00ff&text_color=FFFFFF&icon_color=6f00ff)](https://github.com/LeoRamill/KYC)
+[![KYC](https://github-readme-stats.vercel.app/api/pin/?username=LeoRamill&repo=KYC&border_color=ff4d00&bg_color=0D1117&title_color=c692ff&text_color=FFFFFF&icon_color=c692ff)](https://github.com/LeoRamill/KYC)
 [![ProfessorAdvisor](https://github-readme-stats.vercel.app/api/pin/?username=LeoRamill&repo=Human-Computer-Interaction-Project&border_color=6f00ff&bg_color=0D1117&title_color=ff4d00&text_color=FFFFFF&icon_color=ff4d00)](https://github.com/LeoRamill/Human-Computer-Interaction-Project)
 [![Analyzing Tradeoffs between Activation Functions and Optimizers in First Gen. Pokemon Classification](https://github-readme-stats.vercel.app/api/pin/?username=LeoRamill&repo=analyzing-tradeoffs&border_color=FDDA0D&bg_color=0D1117&title_color=FDDA0D&text_color=FFFFFF&icon_color=FDDA0D)](https://github.com/LeoRamill/analyzing-tradeoffs)
 
 <p align="left">
-  <a href="https://github.com/LeoRamill?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/LeoRamill?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-6f00ff?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 # 📊 GitHub Stats:
