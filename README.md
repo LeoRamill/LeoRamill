@@ -1,11 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently studying **in the Bachelor of Applied Computer Science and Artificial Intelligence at Sapienza - Rome University**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning topics**
 - 💬 Ask me about **Technology, Art, Cinema, TV series, Photography**
 - 📫 How to reach me: **leonardvincentramil@icloud.com**
 
-## 🚀 About Me:
+# 🚀 About Me:
 I am a final-year undergraduate student of the Applied Computer Science and Artificial Intelligence degree program. 
 I like to travel, explore the world trying to represent my perspective/reality through photography.
 One of my many interests is to be able to coincide everything in the scientific field, like artificial intelligence, with every form of art.
