@@ -23,7 +23,8 @@ One of my many interests is to be able to coincide everything in the scientific 
 
 <div align="center">
 
-[![ADACS](https://github-readme-stats.vercel.app/api/pin/?username=LeoRamill&repo=ADACS&border_color=ff4d00&bg_color=0D1117&title_color=9370db&text_color=FFFFFF&icon_color=9370db)](https://github.com/LeoRamill/ADACS)
+<!-- [![ADACS](https://github-readme-stats.vercel.app/api/pin/?username=LeoRamill&repo=ADACS&border_color=ff4d00&bg_color=0D1117&title_color=9370db&text_color=FFFFFF&icon_color=9370db)](https://github.com/LeoRamill/ADACS) 
+-->
 [![KYC](https://github-readme-stats.vercel.app/api/pin/?username=LeoRamill&repo=KYC&border_color=ff4d00&bg_color=0D1117&title_color=9370db&text_color=FFFFFF&icon_color=9370db)](https://github.com/LeoRamill/KYC)
 [![Analyzing Tradeoffs between Activation Functions and Optimizers in First Gen. Pokemon Classification](https://github-readme-stats.vercel.app/api/pin/?username=LeoRamill&repo=analyzing-tradeoffs&border_color=ff4d00&bg_color=0D1117&title_color=9370db&text_color=FFFFFF&icon_color=9370db)](https://github.com/LeoRamill/analyzing-tradeoffs)
 [![ProfessorAdvisor](https://github-readme-stats.vercel.app/api/pin/?username=LeoRamill&repo=Human-Computer-Interaction-Project&border_color=ff4d00&bg_color=0D1117&title_color=9370db&text_color=FFFFFF&icon_color=9370db)](https://github.com/LeoRamill/Human-Computer-Interaction-Project)
